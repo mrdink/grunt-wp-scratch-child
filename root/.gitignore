@@ -5,6 +5,7 @@ bower_components
 node_modules
 npm-debug.log
 manifest.json
+rtl.css
 assets/css/*
 assets/fonts/*
 assets/js/*
