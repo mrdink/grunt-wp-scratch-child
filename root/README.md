@@ -1,5 +1,9 @@
 # {%= title %}
 
+## Child Theme Development
+
+This child theme will need the parent theme in the same themes directory to be able to compile the CSS. Copy the _settings.scss into `/sass`. This file will override any Sass settings in main.scss. For any additional styles, use `sass/style.scss`.
+
 ## Development
 
 Enable "Live Reload" under Advanced in the theme customizer to turn on livereload.js for development with grunt.

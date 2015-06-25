@@ -21,7 +21,8 @@ module.exports = {
   dev: {
     files: {
       'assets/css/main.css': ['sass/main.scss'],
-      'assets/css/editor-style.css': ['sass/editor-style.scss']
+      'assets/css/editor-style.css': ['sass/editor-style.scss'],
+      'style.css': ['sass/style.scss']
     }
   }
 };
